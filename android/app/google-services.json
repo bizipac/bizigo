@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591395048176",
+    "project_id": "icici-project-9f241",
+    "storage_bucket": "icici-project-9f241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591395048176:android:73cf44176b54e86459d035",
+        "android_client_info": {
+          "package_name": "com.sahasrara.icici_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspvVWamxohsG7toEyJcIjc1Y7cXWYLFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
